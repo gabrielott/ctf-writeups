@@ -556,7 +556,7 @@ out where exactly they point to in order to figure out the base of the
 binary. I picked the address in row 6 and looked for a instruction whose
 address ends in `d0d`. Here's what I found in Ghidra:
 
-![d0d.png](img/chessfen/d0d.png)
+![d0d.png](img/d0d.png)
 
 Not only does this instruction's address end in `d0d`, but it also comes
 <span id="right after a function call!"></span>**right after a function
